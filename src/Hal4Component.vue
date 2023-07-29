@@ -4,19 +4,19 @@
     <div class="grid gap-4">
     <div class="grid grid-cols-5 gap-4">
         <div>
-            <img src="baru1.jpeg" alt="">
+            <img src="./assets/img/baru1.jpeg" alt="">
         </div>
         <div>
-            <img src="z11.jpeg" alt="">
+            <img src="./assets/img/z11.jpeg" alt="">
         </div>
         <div>
-            <img src="z12.jpeg" alt="">
+            <img src="./assets/img/z12.jpeg" alt="">
         </div>
         <div>
-            <img src="baru2.jpeg" alt="">
+            <img src="./assets/img/baru2.jpeg" alt="">
         </div>
         <div>
-            <img src="z14.jpeg" alt="">
+            <img src="./assets/img/z14.jpeg" alt="">
         </div>
     </div>
 </div>

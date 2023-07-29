@@ -3,7 +3,7 @@
 <div class="grid grid-cols-3 gap-3">
     <figure class="flex flex-col mb-3">
         <div>
-            <img src="z9.jpeg" style="width: 450px;" height="450px" alt=""> 
+            <img src="./assets/img/z9.jpeg" style="width: 450px;" height="450px" alt=""> 
             </div>
     </figure>
         <div class="my-7 mx-10">
