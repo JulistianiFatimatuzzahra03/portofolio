@@ -16,7 +16,7 @@
            </div>
            <div>
                <div class="my-7 mx-2">
-               <img src="./assets/img/baru 3.jpeg" alt="">
+               <img src="./assets/img/baru3.jpeg" alt="">
            </div>
            </div>
            <div>
